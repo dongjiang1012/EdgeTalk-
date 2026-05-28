@@ -1,0 +1,27 @@
+{
+  "system": {
+    "volumeRatio": 0.9,
+    "speakSpeed": 1.0,
+    "voiceType": "湾湾小何",
+    "persona": "幽默芯语"
+  },
+  "doubao": {
+    "appId": "你的火山引擎AppId",
+    "accessToken": "你的火山引擎AccessToken"
+  },
+  "coze": {
+    "token": "你的扣子API Token",
+    "personaList": [
+      {
+        "name": "幽默芯语",
+        "botId": "你的BotId"
+      }
+    ]
+  },
+  "voiceList": [
+    {
+      "name": "湾湾小何",
+      "value": "zh_female_wanwanxiaohe_moon_bigtts"
+    }
+  ]
+}
